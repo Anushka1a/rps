@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+}
+
+.options { 
+    border-radius : 50%;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+button {
+    background-color: transparent;
+    border: none;
+}
+.options:hover {
+    border: 5px solid salmon;
+    cursor: pointer;
+}
+
+table tr th {
+    color: white;
+    background-color: purple;
+    padding: 5px;
+
+}
+
+table tr td {
+    background-color: beige;
+    color: black;
+    padding: 5px;
+}
